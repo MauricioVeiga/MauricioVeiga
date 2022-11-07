@@ -1,5 +1,5 @@
 - 👋 Olá, Me chamo @MauricioVeiga, tenho 19 anos e sou estudande de Ciências da Computação
-- 👀 Estou interessado em estágios para aprender mais sobre a área da Computação
+- 👀 Estou interessado em estágios para aprender mais sobre a área da Computação/Programação
 - 🌱 Estou aprendendo C, Python, HTML, CSS e Javascript
 - 📫 Meu instagram é @mauricioveiga_  
 
