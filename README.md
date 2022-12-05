@@ -3,7 +3,4 @@
 - 🌱 Estou aprendendo C, Python, HTML, CSS e Javascript
 - 📫 Meu instagram é @mauricioveiga_  
 
-<!---
-MauricioVeiga/MauricioVeiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
