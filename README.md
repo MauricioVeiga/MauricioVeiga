@@ -15,7 +15,4 @@
 ![](https://github-trophies.vercel.app/?username=MauricioVeiga&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MauricioVeiga&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
 [![](https://visitcount.itsvg.in/api?id=MauricioVeiga&icon=0&color=4)](https://visitcount.itsvg.in)
